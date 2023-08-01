@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "projects",
+			"path": "."
+		},
+		{
+			"name": "impossiblequiz",
+			"path": "../Algebra/projects/impossiblequiz"
+		},
+		{
+			"name": "backrooms",
+			"path": "../Algebra/projects/backrooms"
+		},
+		{
+			"name": "Retro-Bowl",
+			"path": "../Algebra/projects/Retro-Bowl"
+		}
+	],
+	"settings": {}
+}
